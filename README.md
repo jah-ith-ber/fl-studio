@@ -8,7 +8,7 @@ Note: the server has a *verified* role. Verified means that you own a legitimate
 - Include your Discord ID in the post.
 - Send a moderator the link to your new thread - we'll grant you the Verified role.
 
-The #feedback-exchange channel *is* accessable by non-verified users. Just ask for the role, and note the Channel Specific rules below.
+The #feedback-exchange channel *is* accessible by non-verified users. Just ask for the role, and note the Channel Specific rules below.
 
 ---
 ### Server Rules:
