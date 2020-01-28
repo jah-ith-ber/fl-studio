@@ -3,12 +3,12 @@
 ---
 Note: the server has a *verified* role. Verified means that you own a legitimate copy of FLStudio, and are a registered user on the Image-Line forum. The role grants you access to verified-only channels, such as #self-promotion. 
 
-The #feedback-access channel *is* accessable by non-verified users. Just ask for the role, and note the channel rules below.
-
 **To get the verified role create a thread on the official IL forums [here](http://forum.image-line.com/viewforum.php?f=1989)**
 
 - Include your Discord ID in the post.
 - Send a moderator the link to your new thread - we'll grant you the Verified role.
+
+The #feedback-exchange channel *is* accessable by non-verified users. Just ask for the role, and note the Channel Specific rules below.
 
 ---
 ### Server Rules:
