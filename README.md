@@ -1,7 +1,9 @@
 ![alt text](https://www.image-line.com/flstudio/img/fruit.png "FLStudio Logo")
 ## Welcome to the unofficial FL Studio discord
 ---
-Note: the server has a *verified* role. Verified means that you own a legitimate copy of FLStudio, and are a registered user on the Image-Line forum.
+Note: the server has a *verified* role. Verified means that you own a legitimate copy of FLStudio, and are a registered user on the Image-Line forum. The role grants you access to verified-only channels, such as #self-promotion. 
+
+The #feedback-access channel *is* accessable by non-verified users. Just ask for the role, and note the channel rules below.
 
 **If you own a license for FL Studio you can create a thread on the official IL forums [here](http://forum.image-line.com/viewforum.php?f=1989)**
 
