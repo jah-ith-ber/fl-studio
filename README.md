@@ -1,4 +1,5 @@
-## Welcome to the unofficial FL Studio discord ![alt text](https://www.image-line.com/flstudio/img/fruit.png "FLStudio Logo")
+![alt text](https://www.image-line.com/flstudio/img/fruit.png "FLStudio Logo")
+## Welcome to the unofficial FL Studio discord
 ---
 Note: the server has a *verified* role. Verified means that you own a legitimate copy of FLStudio, and are a registered user on the Image-Line forum.
 
@@ -10,7 +11,6 @@ Note: the server has a *verified* role. Verified means that you own a legitimate
 ---
 ### Server Rules:
 
-```markdown
 1. No Piracy.
 We only support musicians, creators, and developers in the music industry here. Do not post any links to pirated or infringing content. Discussion of the topic is also unwelcome here.
 
@@ -31,7 +31,6 @@ We want this place to be somewhere enjoyable for everyone too. Suggestions and i
 
 7. F1 (and Google) is your friend
 Pressing F1 in FLS brings up an indexed (Searchable) user manual. Query the manual and perform a Google search before asking too many questions please.
-```
 
 ### Channel Specific Rules:
 
