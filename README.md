@@ -5,10 +5,10 @@ Note: the server has a *verified* role. Verified means that you own a legitimate
 
 The #feedback-access channel *is* accessable by non-verified users. Just ask for the role, and note the channel rules below.
 
-**If you own a license for FL Studio you can create a thread on the official IL forums [here](http://forum.image-line.com/viewforum.php?f=1989)**
+**To get the verified role create a thread on the official IL forums [here](http://forum.image-line.com/viewforum.php?f=1989)**
 
-- Please include your Discord ID in your post.
-- Once you've created a thread with your Discord ID, send a moderator the link to your new verification thread - we'll grant you the Verified role.
+- Include your Discord ID in the post.
+- Send a moderator the link to your new thread - we'll grant you the Verified role.
 
 ---
 ### Server Rules:
