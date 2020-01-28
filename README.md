@@ -29,7 +29,7 @@ Don't post things in more than one channel at once for "maximum visibility".
 6. Server suggestions in general.
 We want this place to be somewhere enjoyable for everyone too. Suggestions and ideas are welcome and we do read them.
 
-7. F1 (and Google) is your friend
+7. F1 (and Google) is your friend.
 Pressing F1 in FLS brings up an indexed (Searchable) user manual. Query the manual and perform a Google search before asking too many questions please.
 
 ### Channel Specific Rules:
